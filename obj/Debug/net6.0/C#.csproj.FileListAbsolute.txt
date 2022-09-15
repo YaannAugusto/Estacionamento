@@ -1,0 +1,15 @@
+D:\treinamento\C#\bin\Debug\net6.0\C#.exe
+D:\treinamento\C#\bin\Debug\net6.0\C#.deps.json
+D:\treinamento\C#\bin\Debug\net6.0\C#.runtimeconfig.json
+D:\treinamento\C#\bin\Debug\net6.0\C#.dll
+D:\treinamento\C#\bin\Debug\net6.0\ref\C#.dll
+D:\treinamento\C#\bin\Debug\net6.0\C#.pdb
+D:\treinamento\C#\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
+D:\treinamento\C#\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\treinamento\C#\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
+D:\treinamento\C#\obj\Debug\net6.0\C#.AssemblyInfo.cs
+D:\treinamento\C#\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
+D:\treinamento\C#\obj\Debug\net6.0\C#.dll
+D:\treinamento\C#\obj\Debug\net6.0\ref\C#.dll
+D:\treinamento\C#\obj\Debug\net6.0\C#.pdb
+D:\treinamento\C#\obj\Debug\net6.0\C#.genruntimeconfig.cache
